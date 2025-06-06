@@ -2,7 +2,7 @@
 layout: post
 title:  "Le royaume des brumes"
 author: "Bha al"
-comments: true
+comments: false
 tags: Novel
 excerpt_separator: <!--more-->
 sticky: true
