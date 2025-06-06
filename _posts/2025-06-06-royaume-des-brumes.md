@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Le Royaume des Brumes"
 date: 2025-06-06
 categories: fantasy
