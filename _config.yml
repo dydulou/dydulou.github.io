@@ -1,6 +1,8 @@
 title: Mon Blog Fantasy
 description: Récits et nouvelles fantastiques
 remote_theme: chesterhow/tale
+permalink:    /:year-:month-:day/:title
+paginate:     5
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
