@@ -6,6 +6,6 @@ categories: fantasy
 ---
 
 # Les royaume des brumes
-<div class="parchemin">
+
 Le vent soufflait sur la vallée endormie. Les ombres glissaient parmi les arbres...
-</div>
+
