@@ -3,3 +3,4 @@ description: Récits et nouvelles fantastiques
 remote_theme: chesterhow/tale
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
