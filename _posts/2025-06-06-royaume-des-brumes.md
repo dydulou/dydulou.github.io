@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Le Royaume des Brumes"
-tags: Bha al
+title:  "Le royaume des brumes"
+author: "Bha al"
+comments: true
+tags: Novel
+excerpt_separator: <!--more-->
+sticky: true
+hidden: true
 ---
 
 # Les royaume des brumes
