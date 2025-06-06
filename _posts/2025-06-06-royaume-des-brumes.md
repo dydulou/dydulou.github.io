@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Le Royaume des Brumes"
-date: 2025-06-06
-categories: fantasy
+tags: Bha al
 ---
 
 # Les royaume des brumes
