@@ -1,0 +1,6 @@
+title: Mon Blog Fantasy
+description: Récits, nouvelles et aventures
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
