@@ -14,6 +14,7 @@ hidden: true
 Le vent soufflait sur la vallée endormie. Les ombres glissaient parmi les arbres, dessinant sur la mousse humide les silhouettes oubliées d’un monde ancien. Les brumes, éternelles compagnes des bois de Solarn, dansaient avec lenteur, comme si elles murmuraient un secret que seuls les plus vieux chênes savaient encore entendre.
 
 Au sommet d’une colline aux flancs couverts de fougères, un jeune homme observait la mer de brouillard qui s'étendait sous lui. Il s'appelait Eryndor. Ni prince ni paysan, juste un orphelin élevé par les moines de Brisacier, un monastère taillé à même la roche.
+![fantasy_image](OIP.1YfgRfavGgCc07S3JEfEmgHaF7.jpeg)
 
 ## L'appel des anciens
 
